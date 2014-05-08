@@ -1,0 +1,34 @@
+src/*.exe
+src/furrycoin
+src/furrycoind
+src/test_furrycoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.furrycoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+furrycoin-qt
+Furrycoin-Qt.app
+
+# Unit-tests
+Makefile.test
+furrycoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

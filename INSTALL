@@ -1,0 +1,9 @@
+Building Furrycoin
+
+See doc/readme-qt.rst for instructions on building Furrycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Furrycoin.
+
+See doc/build-*.txt for instructions on building furrycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Furrycoin.
