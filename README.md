@@ -1,20 +1,16 @@
 Furrycoin integration/staging tree
 ======================================================
 
-V2.0: Stop using KGW at block 42000 and switch to DIGISHIELD 
+V2.0: Rebase code and switch to DIGISHIELD at block 1100
 
 ======================================================
 
-v1.2 Beta (Do not use for Production!)
-
-======================================================
-
-v1.0 Initial Release, initiate KGW at block 1000
+v1.0: Initial Release
 
 ======================================================
 
 
-http://furrycoin.eu
+http://furrycoin.net
 
 Copyright (c) 2014 The Furrycoin Developers
 
